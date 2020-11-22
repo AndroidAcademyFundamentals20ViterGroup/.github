@@ -1,1 +1,5 @@
-
+{
+    "name": "AA 2020 fundamentals Viter group: build debug apk",
+    "description": "Builds debug apk.",
+    "iconName": "example-icon"
+}
